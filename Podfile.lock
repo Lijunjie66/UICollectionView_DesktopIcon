@@ -1,0 +1,16 @@
+PODS:
+  - LxGridView (1.0.0)
+
+DEPENDENCIES:
+  - LxGridView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LxGridView
+
+SPEC CHECKSUMS:
+  LxGridView: af7b9360cce8eec2bcb11aa9d3cb7b9674372b74
+
+PODFILE CHECKSUM: 52daf5facbd218f18190ce1fadc0b3a4708969ea
+
+COCOAPODS: 1.5.3
